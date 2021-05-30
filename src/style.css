@@ -1,0 +1,9 @@
+.activeClass {
+    cursor: pointer;
+}
+.changeStyleClass {
+    background-color: grey;
+    opacity: 50%;
+    text-decoration: line-through;
+    cursor: pointer;
+}
